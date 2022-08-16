@@ -1,2 +1,2 @@
 # poshpower
-Powershell scripts
+Powershell scripts for daily routine
