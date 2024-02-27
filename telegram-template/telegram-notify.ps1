@@ -10,6 +10,9 @@
 	https://github.com/skurudo/poshpower    
 .NOTES
     tested with Powershell 5.1 (Windows 10 / Windows Server 2016)
+
+	PowerShell Policy:
+    Set-Executionpolicy -Scope CurrentUser -ExecutionPolicy UnRestricted
 #>
 
 # Telegram credentials
